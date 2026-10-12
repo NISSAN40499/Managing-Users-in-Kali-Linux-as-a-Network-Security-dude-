@@ -240,6 +240,3 @@ sudo chage -l username
 * Password aging
 * Switching users
 
-Bro, this is **real sysadmin muscle**. You can manage a small company with this.
-
-If you want, I can also make a **File Permissions Cheat Sheet (chmod, chown, umask)** next.
